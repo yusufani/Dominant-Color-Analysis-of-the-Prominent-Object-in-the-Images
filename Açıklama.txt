@@ -1,1 +1,0 @@
-Sistemin doğru bir şekilde çalışabilmesi için gerekli kütüphanelerin belirtilmiş versiyonları ile beraber kurulması gerekir.
