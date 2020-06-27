@@ -26,7 +26,7 @@ sklearn
 
 **A: It is the input image.**
 
-**B:Result image from semantic segmentation.**
+**B: Result image from semantic segmentation.**
 
 **C: Labeling the largest object by applying CCL(Connected Component Labeling) on result B**
 
@@ -38,7 +38,7 @@ sklearn
 
 **G: The color of the whole image is the graphic of the column.**
 
-**: Colors of the whole image is the pie chart.**
+**H: Colors of the whole image is the pie chart.**
 
 
 ![Alt text](Images/sample1.png?raw=true "Sample-1")
