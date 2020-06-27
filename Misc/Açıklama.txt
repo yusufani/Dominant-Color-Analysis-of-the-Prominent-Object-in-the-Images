@@ -1,0 +1,7 @@
+Jupyter Notebook
+Python 3.7
+Tensorflow 1.14
+PIL (Python Image Library)
+matplotlib
+numpy
+sklearn
