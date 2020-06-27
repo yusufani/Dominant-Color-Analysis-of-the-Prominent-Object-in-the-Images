@@ -25,13 +25,21 @@ sklearn
 ## Results
 
 A: It is the input image.
+
 B: Result image from semantic segmentation.
+
 C: Labeling the largest object by applying CCL(Connected Component Labeling) on result B
+
 D: Reducing the object in result C  to 4 colors by color quantization
+
 E: Colors of the prominent object is the graph of the column.
+
 F: Colors of the prominent object is the pie chart.
+
 G: The color of the whole image is the graphic of the column.
+
 H: Colors of the whole image is the pie chart.
+
 
 ![Alt text](Images/sample1.png?raw=true "Sample-1")
 ![Alt text](Images/sample2.png?raw=true "Sample-2")
