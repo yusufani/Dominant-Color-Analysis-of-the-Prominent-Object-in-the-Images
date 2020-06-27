@@ -48,7 +48,10 @@ H: Colors of the whole image is the pie chart.
 ![Alt text](Images/sample13.png?raw=true "Sample-13")
 ![Alt text](Images/sample14.png?raw=true "Sample-14")
 ![Alt text](Images/sample15.png?raw=true "Sample-15")
- 
+
+## Contact 
+Yusuf Anı - yusufani8@gmail.com
+Tarık Çarlı - pro.tarikcarli@gmail.com
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
