@@ -24,21 +24,21 @@ sklearn
 2-) The results can be obtained by running the Dominant Color Analysis of the Prominent Object in the Images.ipynb file in an environment that supports Jupyter Notebook (it can be Google Colab or Jupyter) by running all the codes in order from top to bottom.
 ## Results
 
-A: It is the input image.
+**A: It is the input image.
 
-B: Result image from semantic segmentation.
+**B:Result image from semantic segmentation.
 
-C: Labeling the largest object by applying CCL(Connected Component Labeling) on result B
+**C: Labeling the largest object by applying CCL(Connected Component Labeling) on result B
 
-D: Reducing the object in result C  to 4 colors by color quantization
+**D: Reducing the object in result C  to 4 colors by color quantization
 
-E: Colors of the prominent object is the graph of the column.
+**E: Colors of the prominent object is the graph of the column.
 
-F: Colors of the prominent object is the pie chart.
+**F: Colors of the prominent object is the pie chart.
 
-G: The color of the whole image is the graphic of the column.
+**G: The color of the whole image is the graphic of the column.
 
-H: Colors of the whole image is the pie chart.
+**: Colors of the whole image is the pie chart.
 
 
 ![Alt text](Images/sample1.png?raw=true "Sample-1")
